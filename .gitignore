@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Seminare/.vs/Seminare/v16/ipch/AutoPCH/16ed41f95f2f8cdb
+/Seminare/.vs/Seminare/v16/Browse.VC.db
+/Seminare/.vs/Seminare/v16/Browse.VC.db-shm
+/Seminare/.vs/Seminare/v16/Browse.VC.db-wal
+/Seminare/.vs/Seminare/v16/Browse.VC.opendb
+/.vs/recuperare_sdd_2024/v16
+/.vs
