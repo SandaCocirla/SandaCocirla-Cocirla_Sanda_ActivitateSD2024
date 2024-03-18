@@ -1,0 +1,11 @@
+﻿  seminar1.c
+  seminar2.c
+G:\sdd\recuperare_sdd_2024\Seminare\seminar2.c(13,55): warning C4013: 'strlen' undefined; assuming extern returning int
+G:\sdd\recuperare_sdd_2024\Seminare\seminar2.c(14,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+G:\sdd\recuperare_sdd_2024\Seminare\seminar2.c(46,31): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+G:\sdd\recuperare_sdd_2024\Seminare\seminar2.c(47,9): warning C4022: 'free': pointer mismatch for actual parameter 1
+G:\sdd\recuperare_sdd_2024\Seminare\seminar2.c(66,74): warning C4047: '=': 'Avion **' differs in levels of indirection from 'Avion *'
+G:\sdd\recuperare_sdd_2024\Seminare\seminar2.c(79,15): warning C4013: 'strcmp' undefined; assuming extern returning int
+G:\sdd\recuperare_sdd_2024\Seminare\seminar2.c(95,62): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Seminare.vcxproj -> G:\sdd\recuperare_sdd_2024\Seminare\Debug\Seminare.exe

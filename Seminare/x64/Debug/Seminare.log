@@ -1,0 +1,3 @@
+﻿  seminar4.c
+G:\sdd\recuperare_sdd_2024\Seminare\seminar4.c(37,23): warning C4013: 'atoi' undefined; assuming extern returning int
+  Seminare.vcxproj -> G:\sdd\recuperare_sdd_2024\Seminare\x64\Debug\Seminare.exe
