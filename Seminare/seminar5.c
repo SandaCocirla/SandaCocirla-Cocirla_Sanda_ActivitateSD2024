@@ -127,6 +127,9 @@ void main() {
 	free(cafenea2.nume);
 	cafenea.nume = NULL;
 
+	free(cafenea3.nume);
+	cafenea.nume = NULL;
+
 	free(numeMinim);
 	
 }
