@@ -1,0 +1,14 @@
+Eminescu,360,8.2
+Alistar,520,9.3
+Cantemir,400,8.6
+Cuza,600,9.6
+Vladimirescu,700,8.3
+Luca,250,7.5
+Mateevici,350,6.7
+Dumitrescu,620,7.4
+Vieru,300,7.20
+Alecsandri,256,7.20
+Dumitrescu,345,8.20
+Teodoroiu,280,9.20
+Gaudeamus,400,9.30
+Bartolomeu,420,8.60
